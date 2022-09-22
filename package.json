@@ -1,0 +1,14 @@
+{
+  "name": "ordering-subscription",
+  "version": "1.0.0",
+  "description": "subscriber for pubsub with ordering key",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/pubsub": "^3.1.1"
+  }
+}
